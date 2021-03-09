@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Client
+comment1.params=
+comment1.target=java.lang.String\ getNume()
+comment10.params=
+comment10.target=void\ printTotal()
+comment11.params=itemName
+comment11.target=void\ removeItem(java.lang.String)
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=nume
+comment2.target=void\ setNume(java.lang.String)
+comment3.params=
+comment3.target=int\ getAn()
+comment4.params=an
+comment4.target=void\ setAn(int)
+comment5.params=
+comment5.target=Client()
+comment6.params=nume\ an
+comment6.target=Client(java.lang.String,\ int)
+comment7.params=nume\ TipProdus\ stoc\ pret\ producator\ ValoareProprie1\ ValoareProprie2
+comment7.target=void\ adaugaProdus(java.lang.String,\ java.lang.String,\ int,\ int,\ java.lang.String,\ int,\ int)
+comment8.params=
+comment8.target=void\ afisareCos()
+comment9.params=
+comment9.target=int\ getCostOfCart()
+numComments=13

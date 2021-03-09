@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Telefon
+comment1.params=
+comment1.target=int\ getDimensiuneBaterie()
+comment2.params=dimensiuneBaterie
+comment2.target=void\ setDimensiuneBaterie(int)
+comment3.params=
+comment3.target=int\ getNrMegapixeli()
+comment4.params=
+comment4.target=void\ setNrMegapixeli()
+comment5.params=
+comment5.target=Telefon()
+comment6.params=stoc\ pret\ producator\ dimensiuneBaterie\ nrMegapixeli
+comment6.target=Telefon(int,\ int,\ java.lang.String,\ int,\ int)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ citesteStart()
+comment3.params=
+comment3.target=void\ citesteAdauga()
+comment4.params=
+comment4.target=void\ citesteAdaugaProdus()
+comment5.params=
+comment5.target=void\ citesteStergeProdus()
+comment6.params=
+comment6.target=void\ AfisareCompleta()
+comment7.params=
+comment7.target=void\ StergeProduse()
+comment8.params=
+comment8.target=void\ AfisareCos()
+comment9.params=
+comment9.target=void\ afiseazaComenzi()
+numComments=10

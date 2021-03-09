@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Produs
+comment1.params=
+comment1.target=java.lang.String\ getTipProdus()
+comment10.params=
+comment10.target=void\ PretTotal()
+comment11.params=
+comment11.target=java.lang.String\ toString()
+comment2.params=tipProdus
+comment2.target=void\ setTipProdus(java.lang.String)
+comment3.params=
+comment3.target=int\ getPret()
+comment4.params=pret
+comment4.target=void\ setPret(int)
+comment5.params=
+comment5.target=int\ getStoc()
+comment6.params=stoc
+comment6.target=void\ setStoc(int)
+comment7.params=
+comment7.target=java.lang.String\ getProducator()
+comment8.params=
+comment8.target=Produs()
+comment9.params=stoc\ pret\ producator
+comment9.target=Produs(int,\ int,\ java.lang.String)
+numComments=12

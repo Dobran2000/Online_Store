@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Laptop
+comment1.params=
+comment1.target=int\ getNumarProcesoare()
+comment2.params=numarProcesoare
+comment2.target=void\ setNumarProcesoare(int)
+comment3.params=
+comment3.target=int\ getTip()
+comment4.params=tip
+comment4.target=void\ setTip(int)
+comment5.params=
+comment5.target=Laptop()
+comment6.params=stoc\ pret\ producator\ numarProcesoare\ tip
+comment6.target=Laptop(int,\ int,\ java.lang.String,\ int,\ int)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8

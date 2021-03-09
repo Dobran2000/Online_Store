@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Televizor
+comment1.params=
+comment1.target=int\ getDiagonala()
+comment2.params=diagonala
+comment2.target=void\ setDiagonala(int)
+comment3.params=
+comment3.target=int\ getTip()
+comment4.params=tip
+comment4.target=void\ setTip(int)
+comment5.params=
+comment5.target=Televizor()
+comment6.params=stoc\ pret\ producator\ diagonala\ tip
+comment6.target=Televizor(int,\ int,\ java.lang.String,\ int,\ int)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
